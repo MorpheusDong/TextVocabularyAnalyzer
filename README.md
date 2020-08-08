@@ -1,5 +1,5 @@
 # TextVocabularyAnalyzer
-One mini tool to analyze each word's frequency level of a paragraph, based on COCA word frequency list
+One tiny tool to analyze each word's frequency level of a paragraph, based on COCA word frequency list
 
 目前只实现了基本功能，以后慢慢完善。
 
