@@ -1,6 +1,6 @@
 # TextVocabularyAnalyzer
 
-统计文本词频的小工具。目前只实现了基本功能，以后有时间继续写。
+统计文本词频的小工具。目前只实现了基本功能，以后有时间继续写。本来是写着练习STL的。
 
 Current version:v0.2
 
